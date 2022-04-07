@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <!-- Project from https://start.vaadin.com/project/93069426-87cd-4e11-9835-c25691700c70 -->
     <groupId>com.example.application</groupId>
-    <artifactId>myapp</artifactId>
+    <artifactId>hybridapp</artifactId>
     <name>My App</name>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
@@ -19,6 +19,7 @@
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
         <version>2.6.6</version>
+        <relativePath></relativePath>
     </parent>
 
     <repositories>
